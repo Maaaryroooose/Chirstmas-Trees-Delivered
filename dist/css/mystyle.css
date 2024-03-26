@@ -1,0 +1,328 @@
+/*  common css to use  */
+.click-button{
+    background: #981a1a;
+    padding: 10px 20px;
+    color: #fff;
+
+}
+
+.click-button:hover{
+    background:#d72727 ;
+    padding: 10px 20px;
+    color: #fff;
+
+}
+.section-div{
+    margin: 100px 0px;
+    clear: both;
+}
+
+.margin-button10{
+    
+    margin-bottom: 10px;
+}
+
+.margin-button20{
+    
+    margin-bottom: 20px;
+}
+.margin-button40{
+    
+    margin-bottom: 40px;
+}
+.margin-top20{
+    
+    margin-top: 20px;
+}
+.navbar-nav>li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#navbar-search-input {
+    
+    margin-top: 20px;
+}
+.inner-page{
+  
+       text-align: left;
+    padding-top: 330px;
+    padding-bottom: 140px;
+    color: #ffffff;
+    padding-left: 400px;
+   
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+
+}
+
+.float-left{
+          float: left;
+    width: 400px;
+
+      }
+ .float-right{
+          float: right;
+          width: 700px;
+      }
+
+.content{
+        padding:150px 10px;
+}
+
+h5{
+    font-size: 55px;
+    font-weight: bold;
+    font-family: P22 Mackinac Pro;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: P22 Mackinac Pro;
+    font-style: normal;
+    font-weight: 700;
+}
+p{
+  font-family: Assistant, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;  
+    
+}
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    padding-bottom: 120px;
+    padding-right: 250px;
+    text-align: left;
+}
+
+.skin-blue .main-header .navbar .nav>li>a:hover, .skin-blue .main-header .navbar .nav>li>a:active, .skin-blue .main-header .navbar .nav>li>a:focus, .skin-blue .main-header .navbar .nav .open>a, .skin-blue .main-header .navbar .nav .open>a:hover, .skin-blue .main-header .navbar .nav .open>a:focus, .skin-blue .main-header .navbar .nav>.active>a {
+    background: rgb(152 26 26);
+    color: #f6f6f6;
+    border-radius: 50px;
+}
+.nav>.active>a {
+    background: rgb(152 26 26);
+    color: #f6f6f6;
+    border-radius: 50px;
+}
+
+
+.skin-blue .main-header .navbar {
+    background-color: #ffffff;
+   
+}
+
+.skin-blue .main-header .navbar .nav>li>a {
+    color: #121212;
+}
+.white-text{
+    color:#ffffff;
+}
+.skin-blue .main-header li.user-header {
+    background-color: #184e07;
+}
+
+.float-right-rev {
+    float: right;
+    width: 500px;
+}
+
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #417630;
+}
+
+.white{
+    color: #ffffff;
+    text-shadow: 5px 5px 12px #0000006e;
+}
+
+/*  random  */
+
+.about-pic{
+     float:left;
+}
+
+.about-section{
+    
+    width:700px;
+    float:right;
+}
+
+.product-img{
+    float: left;
+    margin:0px 50px 0px 0px;
+    text-align: center;
+    
+}
+
+.productlist{
+    
+    background-color:#000;
+    clear: both;
+    
+}
+.r-img{
+    width: 130px; 
+  
+}
+.r-review{
+    float: right;
+    width: 350px;
+   
+}
+.each-review{
+    width: 500px;
+     margin-bottom: 20px;
+}
+.review-name{
+    font-weight: bold;
+}
+.review-section{
+    float:left;
+}
+.review-section2{
+    float:right;
+}
+.aboutus-section{
+    text-align: center;
+}
+
+.career-section{
+     text-align: center;
+}
+.gallery-section{
+    margin: 40px 0px 40px 0px;
+    text-align: center;
+}
+.img-gallery{
+    
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 20px;
+    width: 350px;
+}
+.product-bg{
+         background:#417630;
+          
+      }
+
+.feature-section{
+    
+        text-align: center;
+    background: #417630;
+    padding: 11px;
+    color: #ffffff;
+
+    
+}
+.promo-section{
+    text-align: center;
+    background:#184e07;
+    padding: 20px 0px;
+    color: #ffffff;
+    
+}
+
+.menu-drawer__benefits {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.menu-drawer__benefits svg {
+    margin-right: 8px; 
+    margin-left: 15px;/* Adjust as needed */
+}
+
+.cta-section{
+   background-image: url(images/cta.jpg);
+    background-position: center;
+    background-size: cover;
+       padding: 50px 0px;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #000;
+    text-align: center;
+}
+
+.cta-text{
+    font-size: 40px;
+ 
+    font-family: P22 Mackinac Pro;
+    font-style: normal;
+    font-weight: 500;
+    text-align: center;
+        line-height: 1;
+}
+.img-about{
+    
+     border: 1px solid #ffffff;
+    padding: 10px;
+    margin: 20px;
+    width: 350px;
+}
+
+.footer-bg{
+    color:#ffffff;
+        background:#184e07;
+        padding-top: 40px;
+    
+}
+footer a{
+    color: #ffffff;
+}
+footer a:hover{
+    color: #b6b6b6;
+}
+.cp{
+     color:#ffffff;
+       background: #417630;
+    padding: 10px;
+}
+
+
+.click-button-white{
+    background: #ffffff;
+    padding: 10px 20px;
+    color: #000000;
+    box-shadow: 5px 5px 12px #0000006e;
+}
+
+.click-button-white:hover{
+  
+    padding: 10px 20px;
+    background: #ffffff;
+    border:1px solid #ffffff;
+
+}
+.headlink{
+     color: #ffffff;
+}
+.headlink:hover{
+     color: #b6b6b6;
+}
+.inner-title{
+    background: #184e0787;
+    width: 330px;
+    padding: 25px;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: P22 Mackinac Pro;
+    font-style: normal;
+    font-weight: 700;
+}
+.success{
+    padding-top: 250px;
+    text-align: center;
+}
+
+
